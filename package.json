@@ -2,7 +2,7 @@
   "name": "connect-jwt",
   "version": "0.0.1",
   "description": "json web token binding for connect-platform",
-  "main": "connect-jwt",
+  "main": ".",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
