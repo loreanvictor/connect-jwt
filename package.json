@@ -1,0 +1,30 @@
+{
+  "name": "connect-jwt",
+  "version": "0.0.1",
+  "description": "json web token binding for connect-platform",
+  "main": "connect-jwt",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loreanvictor/connect-jwt.git"
+  },
+  "keywords": [
+    "connect-platform",
+    "low-code",
+    "jwt",
+    "CONNECT",
+    "no-code"
+  ],
+  "author": "Eugene Ghanizadeh Khoub <ghanizadeh.eugene@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loreanvictor/connect-jwt/issues"
+  },
+  "homepage": "https://github.com/loreanvictor/connect-jwt#readme",
+  "dependencies": {
+    "connect-platform": "^0.1.3",
+    "jsonwebtoken": "^8.3.0"
+  }
+}
