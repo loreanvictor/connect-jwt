@@ -1,6 +1,6 @@
 {
   "name": "connect-jwt",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "json web token binding for connect-platform",
   "main": ".",
   "scripts": {
