@@ -1,6 +1,6 @@
 {
   "name": "connect-jwt",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "json web token binding for connect-platform",
   "main": ".",
   "scripts": {
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/loreanvictor/connect-jwt#readme",
   "dependencies": {
-    "connect-platform": "^0.2.1",
+    "connect-platform": "^0.2.2",
     "jsonwebtoken": "^8.3.0"
   }
 }
